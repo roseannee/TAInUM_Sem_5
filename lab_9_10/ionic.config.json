@@ -1,0 +1,7 @@
+{
+  "name": "lab_9_10",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
